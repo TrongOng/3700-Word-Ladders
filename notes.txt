@@ -1,0 +1,8 @@
+input words
+
+
+hamming distance
+    -compare the two words
+        -input words vs each words
+
+linearList = gives location of index of 5757
